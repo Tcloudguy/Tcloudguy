@@ -16,7 +16,7 @@ I'm a Junior Software Engineer, A vocalist, I'm passionate about Learning....
 
 - 🎶 I'm a Lover of Music
 - 😎 I love the Acoustic guitar as much as i love Coding
-- 😉 I am an Explorer at earn.games
+- 😉 I am an Explorer at Earn.Games.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 🌱 I’m currently learning  Open Source, Git and the Cloud (AWS).
 - 💼 Job interests: Software Engineer, Frontend Engineer, or(Intern or Junior level).
